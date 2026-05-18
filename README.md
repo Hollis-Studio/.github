@@ -1,6 +1,6 @@
 # Hollis Studio
 
-Hollis Studio is building a connected health and wellness platform designed to help people make better day-to-day decisions about training, recovery, nutrition, movement, and mental wellbeing.
+Hollis Studio is building a connected health and wellness platform designed to help people make better day-to-day decisions about training, recovery, nutrition, movement, and mental well-being.
 
 ## How the Hollis suite is structured
 
